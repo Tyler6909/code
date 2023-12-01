@@ -36,3 +36,10 @@ while choice == "Y":
 print(score)
 #unfinished 
 ```
+### output 
+
+![outcome of saying N](images/outcomeN.png)
+![outcome of saying Y](images/outcomeY.png)
+
+
+[calculator program](calculator.md)
